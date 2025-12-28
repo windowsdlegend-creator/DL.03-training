@@ -21,6 +21,7 @@ export default function Home() {
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
               Ponnu Chekkaa
+              and kunju kundii
             </a>{" "}
            
           </p>
